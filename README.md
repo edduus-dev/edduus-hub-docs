@@ -6,18 +6,18 @@
 
 ## Getting Started
 
-#### [Introduction](intro)
+#### [1. Introduction](intro)
 
 Read the short introduction about the Edduus Hub
 
-#### [Development](development)
+#### [2. Development](development)
 
 Dive straight into coding with our guided instructions
 
-#### [Modules](modules/README)
+#### [3. Modules](modules/README)
 
 Learn more about the Edduus Hub custom modules
 
-#### [Hub-Js](hub-js/README)
+#### [4. Hub-Js](hub-js/README)
 
 Client library for JavaScript developers
