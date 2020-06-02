@@ -11,3 +11,5 @@ Edduus - a new global education system. Where every learner is interconnected on
 ## Why Blockchain
 
 Edduus will revolutionize the way people learn with a new model built on the principles of artificial intelligence, gamification and blockchain technology Underpinned by a token-based model, the Edduus platform offers a first-of-its-kind incentive system to the benefit of both teachers and students. Our decentralized ecosystem will pay students for learning and remunerate teachers according to their impact in the success of their students. It’s simple: get rewarded for the things you achieve in real currency.
+
+If you are interested to learn more about building Edduus Hub from source, or running a local Testnet look at our [Development](/development) section.

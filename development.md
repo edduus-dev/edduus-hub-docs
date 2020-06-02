@@ -81,6 +81,10 @@ curl -s http://localhost:1317/auth/accounts/$(edcli keys show teacher -a)
 curl -s http://localhost:1317/auth/accounts/$(edcli keys show student -a)
 ```
 
+## Using Hub-Js
+
+Alternatively you can use Hub-Js library to interact with Edduus Hub. It allows third party JavaScript applications to generate accounts, create, and sign transations. You can learn more about the library in the [HubJs](/hub-js/README.md) section.
+
 ## Docker deployment
 
 ### Build your container
@@ -102,3 +106,5 @@ In case you want to delete the project, and all associated configuration run:
 ```bash
 ./script/hard-reset.sh
 ```
+
+You can learn more about custom Edduus Hub custom modules in the [Modules](/modules/README.md) section.

@@ -6,5 +6,5 @@ Edduus Hub is build on top of Cosmos SDK, which is a modular framework for build
 
 On top of that, Edduus Hub implements the following modules:
 
-- [Organization Module](modules/block.md)
-- [Block Module](modules/organization.md)
+- [Organization Module](modules/organization.md)
+- [Block Module](modules/block.md)
