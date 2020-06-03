@@ -1,6 +1,4 @@
-# Edduus Hub Documentation <!-- omit in toc -->
-
-![logo](https://edduus.io/assets/images/logo_og.png)
+# Edduus Hub Documentation
 
 #### Edduus Hub is a service protocol for building a decentralized education system.
 
